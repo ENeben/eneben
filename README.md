@@ -12,7 +12,7 @@ What I like to do when I'm not programming:
 - :bike: being outside, e.g. on bike tours
 - :earth_africa: learn languages
 - :cook: cook
-- :guitar: Listen to music or go to concerts
+- :guitar: listen to music or go to concerts
 - :book: read
 - :coffee: drink coffee
 
