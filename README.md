@@ -6,18 +6,16 @@ I am Elisabeth. I live in the south of Hamburg and am currently taking part in a
 <!-- Bild bearbeiten: Angezeigter TExt, ungeschütztes Bild, Bild kleiner darstellen -->
 ![durchstarten](https://www.shutterstock.com/shutterstock/photos/435303079/display_1500/stock-vector-turbo-rocket-super-developer-flat-boost-coding-435303079.jpg)
 
-<!-- Emoticons einfügen -->
-
 What I like to do when I'm not programming:
-- play with my children
-- being outside, e.g. on bike tours
-- learn languages
-- cook
-- Listen to music or go to concerts
-- read
-- drink coffee
+- :game_die: play with my children
+- :bike: being outside, e.g. on bike tours
+- :earth_africa: learn languages
+- :cook: cook
+- :guitar: Listen to music or go to concerts
+- :book: read
+- :coffee: drink coffee
 
-I look forward to getting to know you and getting started together!
+I look forward to getting to know you and getting started together! :rocket:
 
 
 <!--
