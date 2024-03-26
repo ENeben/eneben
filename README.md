@@ -3,8 +3,9 @@
 
 I am Elisabeth. I live in the south of Hamburg and am currently taking part in a web development bootcamp. I'm looking forward to working as a front-end developer soon.
 
-<!-- Bild bearbeiten: Angezeigter TExt, ungeschütztes Bild, Bild kleiner darstellen -->
-![durchstarten](https://www.shutterstock.com/shutterstock/photos/435303079/display_1500/stock-vector-turbo-rocket-super-developer-flat-boost-coding-435303079.jpg)
+<!-- Bild bearbeiten: ungeschütztes Bild -->
+
+<img src="https://img.devrant.com/devrant/rant/r_1675995_ZscKE.jpg" alt="Coding outdoors" width="300px"/>
 
 What I like to do when I'm not programming:
 - :game_die: play with my children
