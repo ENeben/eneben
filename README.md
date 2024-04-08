@@ -5,7 +5,7 @@ I am Elisabeth. I live in the south of Hamburg and am currently taking part in a
 
 <!-- Bild bearbeiten: ungeschütztes Bild -->
 
-<img src="https://img.devrant.com/devrant/rant/r_1675995_ZscKE.jpg" alt="Coding outdoors" width="300px"/>
+<img src="https://c.pxhere.com/photos/78/24/laptop_computer_pc_notebook_green_wireless_mobility_grass-1187096.jpg!d" alt="Coding outdoors" width="300px"/>
 
 What I like to do when I'm not programming:
 - :game_die: play with my children
