@@ -10,6 +10,7 @@ I am Elisabeth. I live in the south of Hamburg and am currently taking part in a
 What I like to do when I'm not programming:
 - :game_die: play with my children
 - :bike: being outside, e.g. on bike tours
+- :seedling: discuss social and political issues
 - :earth_africa: learn languages
 - :cook: cook
 - :guitar: listen to music or go to concerts
